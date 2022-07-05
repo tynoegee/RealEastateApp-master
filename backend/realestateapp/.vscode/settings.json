@@ -1,0 +1,8 @@
+{
+
+    "php.executablePath": "c:\\php\\php.exe",
+    "phpserver.phpPath": "c:\\php\\php.exe",
+    "phpcs.executablePath": "c:\\php\\php.exe",
+    "liveServer.settings.useWebExt": true,
+    "artisan.php.location": "c:\\php\\php.exe"
+}

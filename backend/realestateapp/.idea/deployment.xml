@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="XAMP">
+    <serverData>
+      <paths name="XAMP">
+        <serverdata>
+          <mappings>
+            <mapping deploy="realestateapp/" local="$PROJECT_DIR$" web="realestateapp/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
